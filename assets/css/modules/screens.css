@@ -1,33 +1,14 @@
 /*--- Screens CSS ---*/
 
-@media (max-width:767px) {
-
-}
-
-@media (min-width: 768px) {
-
-}
-
-@media (max-width:1023px) {
-
-}   
-
-@media (max-width:1024px) {
-
-}
-
-@media (min-width: 768px) and (max-width:1024px) {
-
-}
-
-@media (min-width: 1024px) {
-
-}   
-
-@media (min-width: 1025px) {
-
-}
-
-@media (min-width: 1366px) {
-
-}
+/*--- SM 40rem (640px) ---*/
+@media (width >= 40rem) {}
+/*--- MD 48rem (768px) ---*/
+@media (width >= 48rem) {}
+/*--- LG 64rem (1024px) ---*/
+@media (width >= 64rem) {}
+/*--- XL Screens 80rem (1280px) ---*/
+@media (width >= 80rem) {}
+/*--- 1.5 XL Screens 80rem (1366px) ---*/
+@media (width >= 85.375rem) {}
+/*--- 2XL Screens 96rem (1536px) ---*/
+@media (width >= 96rem) {}

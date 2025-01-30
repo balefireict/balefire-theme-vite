@@ -1,16 +1,16 @@
 {
   "assets/css/main.css": {
-    "file": "assets/style-CukRPg4g.css",
+    "file": "assets/style-DhZAWSCI.css",
     "src": "assets/css/main.css",
     "isEntry": true
   },
   "assets/js/main.js": {
-    "file": "assets/main-DMoK8um0.js",
+    "file": "assets/main-BzqM8hIa.js",
     "name": "main",
     "src": "assets/js/main.js",
     "isEntry": true,
     "css": [
-      "assets/style-CukRPg4g.css"
+      "assets/style-DhZAWSCI.css"
     ]
   }
 }

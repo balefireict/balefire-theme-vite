@@ -9,6 +9,7 @@ header#masthead .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: var(--space-2xs-s) var(--space-s);
 }
 
 a.header-logo {
