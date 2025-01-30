@@ -4,7 +4,10 @@
 :root {
     --brand-red: #ce1432;
     --brand-lt-gray: #f2f2f2;
-    --star-color: #fff;
+    --dark: #454545;
+    --light: #f2f2f2;
+    --white: #ffffff;
+    --black: #000000;
     --star-background: #EDA045;
     
     --star-size: 40px;
