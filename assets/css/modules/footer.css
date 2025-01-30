@@ -1,0 +1,30 @@
+/*--- START: Footer ---*/
+footer {
+    color: var(--color-primary);
+    padding: 40px 0 0;
+}
+
+footer .nav,
+footer .nav li {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+footer .nav>li>a {
+    display: inline-block;
+    padding: 30px 10px 10px 0;
+}
+
+footer .nav>li>a,
+footer a,
+footer a:link {
+    color: inherit;
+}
+
+footer .nav > li > a:hover,
+footer a:hover {
+    color: inherit;
+    opacity: 0.7;
+}
+/*--- END: Footer ---*/

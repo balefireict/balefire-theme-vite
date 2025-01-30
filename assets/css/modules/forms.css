@@ -1,0 +1,84 @@
+/*------------------------------------*\
+    PLUGINS
+\*------------------------------------*/
+.gform_wrapper {
+    margin:40px auto;
+}
+.gform_wrapper ul, .gform_wrapper li {
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+.gform_wrapper li {
+    margin-bottom:10px;
+}
+.gform_wrapper li:before, .gform_wrapper legend {
+    display: none;
+}
+.gform_wrapper label {
+    visibility: hidden;
+    display: none;
+}
+.gform_wrapper input {
+    margin-bottom: 10px;
+}
+input[type="text"],input[type="email"],input[type="tel"],textarea {
+    width:100%;
+    padding:8px;
+    border-radius: 3px;
+    border-color:#ddd;
+    border-width: 1px;
+}
+/*
+#field_1_1:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#field_1_1 span ,#field_1_2, #field_1_3 {
+    width:50%;
+    display: inline-block;
+    padding-right:10px;
+}
+#field_1_1 span {
+    float:left;
+}
+#field_1_4 {
+    padding-right: 10px;
+}
+*/
+.gform_wrapper span, #field_2_4, #field_2_5, #field_1_2, #field_1_3 {
+    display: inline-block;
+    width: 50%;
+    float: left;
+}
+.gform_wrapper span:first-child, #field_2_4, #field_1_2 {
+    padding-right:1%;
+}
+.gform_wrapper span:nth-child(2), #field_2_5, #field_1_3 {
+    padding-left:1%;
+}
+.slick-prev {
+    left:5px;
+}
+.slick-next {
+    right:5px;
+}
+.slick-prev, .slick-next {
+    margin:0;
+}
+.single-site .slick-prev:before, .single-site .slick-next:before {
+    color:#fff;
+}
+.wp-block-image img {
+    max-width: initial;
+    width: 100%;
+    height: auto;
+}
+.blockgallery--item img {
+    width: 100%;
+    height: auto;
+}

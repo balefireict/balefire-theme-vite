@@ -1,0 +1,11 @@
+/*--- Variables ---*/
+
+/*--- Colors ---*/
+:root {
+    --brand-red: #ce1432;
+    --brand-lt-gray: #f2f2f2;
+    --star-color: #fff;
+    --star-background: #EDA045;
+    
+    --star-size: 40px;
+}

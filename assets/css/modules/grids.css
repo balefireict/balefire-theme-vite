@@ -1,0 +1,13 @@
+.container,
+section.container {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto auto;
+    padding-inline: 1rem;
+}
+
+.container.full-width {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}

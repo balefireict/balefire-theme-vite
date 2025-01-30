@@ -1,0 +1,14 @@
+
+/*------------------------------------*\
+    PAGE
+\*------------------------------------*/
+#page {
+    overflow: hidden;
+}
+#google-map {
+    width:100%;
+}
+#google-map iframe {
+    width:100%;
+    height:600px;
+}

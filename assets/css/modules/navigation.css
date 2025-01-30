@@ -1,0 +1,10 @@
+header.masthead {
+    display: flex;
+    background-color: rgba(255,255,255,0.9);
+}
+
+header.masthead .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

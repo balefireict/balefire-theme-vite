@@ -1,0 +1,19 @@
+/*------------------------------------*\
+    BLOG
+\*------------------------------------*/
+article #article-content {
+    padding:20px 0 0;
+}
+#sidebar1 ul {
+    padding: 10px 0;
+    border-top: 1px solid #efefef;
+}
+#sidebar1 ul li {
+    padding: 5px 0;
+}
+.read-more, .read-more .btn {
+    margin: 0 auto;
+}
+.read-more .btn {
+    padding: 10px 20px;
+}
